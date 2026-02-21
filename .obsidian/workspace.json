@@ -648,6 +648,20 @@
             }
           },
           {
+            "id": "69e41179e949de65",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ココナラ添削.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ココナラ添削"
+            }
+          },
+          {
             "id": "0864c54f44a84fa6",
             "type": "leaf",
             "state": {
@@ -775,7 +789,7 @@
             }
           }
         ],
-        "currentTab": 45
+        "currentTab": 46
       }
     ],
     "direction": "vertical"
@@ -938,10 +952,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a198ee0101058797",
+  "active": "69e41179e949de65",
   "lastOpenFiles": [
-    "プラスαの施策.md",
     "ツール案.md",
+    "ココナラ添削.md",
+    "プラスαの施策.md",
     "フルショウノゾミ　内訳.md",
     "クラウドワークス売上・報酬明細.md",
     "だーすーコンサル.md",
@@ -975,7 +990,6 @@
     "ココナラプロンプト.md",
     "コンサル関連　メモ　下書き.md",
     "コンサル参考ポスト.md",
-    "完全移行キット（コピペ用）.md",
     "無題のファイル 2.base",
     "無題のファイル 1.base",
     "無題のファイル.base",
